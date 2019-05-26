@@ -1,16 +1,8 @@
-<style>
-  
-body {
-color:black;
-background-color:white;
-background-image:url(images/image_de_fond.png)https://torange.biz/clouds-sunset-sky-16067;
-background-repeat:no-repeat;
-}
-
-</style>
+ <!DOCTYPE htlm>
+ <htlm>
 
 
-# Qui je suis et pourquoi je veux devenir développeuse web ☺ 
+<title> Qui je suis et pourquoi je veux devenir développeuse web ☺ </title>
 
 ((qui vous êtes, votre parcours, vos études, vos diplômes, vos expériences))
 
@@ -21,7 +13,7 @@ Mon parcours à commencé par un bac Scientifique puis suite à son obtention j'
 De ce cursus universitaire, j'en suis resortie avec une licence de biologie et une expérience en dehors de la France .
 En effet pendant ma dernière année j'ai eu l'occasion de faire un semestre en Norvège qui m'a permis de rencontrer des gens et toute une culture qui m'était inconnu.
 
-
+Après l'université j'ai enchainé les jobs alimentaire.
 
 
 vos centres d'intérêts, complétés par des images / vidéos
@@ -50,3 +42,5 @@ drops ♥
 
 un lien vers vos profils de réseaux sociaux, voire y intégrer certains contenus de vos réseaux sociaux !))
 facebook
+
+</htlm>
