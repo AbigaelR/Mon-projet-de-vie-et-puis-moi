@@ -1,15 +1,15 @@
  <!DOCTYPE html>
  <html>
   <head>
-    <!-- metadata elements -->
+    <!-- metadata elements: link, meta, title, and style -->
   </head>
-  <body>
-    <!-- page contents -->
  
-
+ 
+  <body>   <!-- page contents -->
+ 
 <h1> Qui je suis et pourquoi je veux devenir développeuse web ☺ </h1>
 
-((qui vous êtes, votre parcours, vos études, vos diplômes, vos expériences))
+<!-- qui vous êtes, votre parcours, vos études, vos diplômes, vos expériences -->
 
 Je m'appelle Abigaël, j'ai 22 ans et je suis actuellement salariée dans une entreprise en tant que Chargée de clientèle.
 
@@ -21,7 +21,7 @@ En effet pendant ma dernière année j'ai eu l'occasion de faire un semestre en 
 Après l'université j'ai enchainé les jobs alimentaire.
 
 
-vos centres d'intérêts, complétés par des images / vidéos
+<!-- vos centres d'intérêts, complétés par des images / vidéos -->
 
 Les loisirs créatifs
 tricot
@@ -36,7 +36,7 @@ Depuis que j'ai commencé réellement à apprendre le code et que je vois enfin 
 
 
 
-vos sites préférés
+<!-- vos sites préférés -->
 
 www.freecodecamp.org j'ai passé tellement de temps avec en tête à tête
 www.youtube.fr des vidéos avec une diversité de thème incroyable. 
@@ -45,7 +45,7 @@ drops ♥
 
 
 
-un lien vers vos profils de réseaux sociaux, voire y intégrer certains contenus de vos réseaux sociaux !))
+<!-- un lien vers vos profils de réseaux sociaux, voire y intégrer certains contenus de vos réseaux sociaux ! -->
 facebook
 
  </body>
