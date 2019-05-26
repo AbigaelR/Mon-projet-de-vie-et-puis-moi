@@ -1,6 +1,11 @@
- <!DOCTYPE htlm>
- <htlm>
-
+ <!DOCTYPE html>
+ <html>
+  <head>
+    <!-- metadata elements -->
+  </head>
+  <body>
+    <!-- page contents -->
+ 
 
 <title> Qui je suis et pourquoi je veux devenir développeuse web ☺ </title>
 
@@ -43,4 +48,5 @@ drops ♥
 un lien vers vos profils de réseaux sociaux, voire y intégrer certains contenus de vos réseaux sociaux !))
 facebook
 
-</htlm>
+ </body>
+</html>
