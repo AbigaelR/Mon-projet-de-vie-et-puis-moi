@@ -7,7 +7,7 @@
     <!-- page contents -->
  
 
-<title> Qui je suis et pourquoi je veux devenir développeuse web ☺ </title>
+<h1> Qui je suis et pourquoi je veux devenir développeuse web ☺ </h1>
 
 ((qui vous êtes, votre parcours, vos études, vos diplômes, vos expériences))
 
