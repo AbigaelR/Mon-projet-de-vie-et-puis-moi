@@ -13,7 +13,7 @@
 
 Je m'appelle Abigaël, j'ai 22 ans et je suis actuellement salariée dans une entreprise en tant que Chargée de clientèle.
 
-Mon parcours à commencé par un bac Scientifique puis suite à son obtention j'ai continué par des études à l'université dont j'ai appris plein de choses, aussi bien théoriques qu'usuelles. 
+Mon parcours a commencé par un bac Scientifique puis suite à son obtention j'ai continué par des études à l'université dont j'ai appris plein de choses, aussi bien théoriques qu'usuelles. 
 
 De ce cursus universitaire, j'en suis resortie avec une licence de biologie et une expérience en dehors de la France .
 En effet pendant ma dernière année j'ai eu l'occasion de faire un semestre en Norvège qui m'a permis de rencontrer des gens et toute une culture qui m'était inconnu.
