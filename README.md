@@ -18,7 +18,7 @@ Je m'appelle Abigaël, j'ai 22 ans et je suis actuellement salariée dans une en
 
 <p>Mon parcours a commencé par un bac Scientifique puis suite à son obtention j'ai continué par des études à l'université. 
 </p>
-p>De ce cursus universitaire, j'en suis resortie avec une licence de biologie et une expérience à l'étranger.</p>
+<p>De ce cursus universitaire, j'en suis resortie avec une licence de biologie et une expérience à l'étranger.</p>
 <p>En effet lors ma dernière année j'ai eu l'occasion de faire un semestre en Norvège qui m'a permis de rencontrer des gens et toute une culture qui m'était inconnue.
 </p>
 <p>Après l'université j'ai enchainé les jobs alimentaires et je souhaite donc maintenant me former à un métier qui me plaît, avec des évolutions futures possibles et dont il y a des débouchés.
@@ -55,6 +55,7 @@ drops ♥
 
 <!-- un lien vers vos profils de réseaux sociaux, voire y intégrer certains contenus de vos réseaux sociaux ! -->
 facebook
-
+<a href="https://www.facebook.com/abigael.rossignol">Ma page Facebook
+</a>
  </body>
 </html>
