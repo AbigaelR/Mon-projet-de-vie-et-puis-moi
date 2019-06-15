@@ -60,7 +60,8 @@ drops ♥
 </a>
 <a href="https://www.pinterest.fr/leiothix/">et Pinterest
 </a>
+<p>
 <a href="mailto:abigaelrossignol@orange.fr">Et voici mon adresse mail si vous souhaitez me contacter.
-</a>
+</a> </p>
 </body>
 </html>
