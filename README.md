@@ -54,7 +54,9 @@ drops ♥
 
 
 <!-- un lien vers vos profils de réseaux sociaux, voire y intégrer certains contenus de vos réseaux sociaux ! -->
-<a href="https://www.facebook.com/abigael.rossignol">Ma page Facebook
+<a href="https://www.facebook.com/abigael.rossignol">Ma page Facebook,
+</a>
+<a href="https://www.instagram.com/a_bigael/?hl=fr">Instagram
 </a>
  </body>
 </html>
