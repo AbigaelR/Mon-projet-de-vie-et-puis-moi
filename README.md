@@ -3,13 +3,12 @@
   <head> 
     <!-- metadata elements: link, meta, title, and style -->
    <meta charset="utf-8" />
-   <tittle>Qui je suis et pourquoi je veux devenir dév web</tittle>
+   <tittle>Qui je suis et pourquoi je veux devenir développeuse web ☺</tittle>
  </head>
  
  
   <body>   <!-- page contents -->
  
-<h1> Qui je suis et pourquoi je veux devenir développeuse web ☺ </h1>
 
 <!-- qui vous êtes, votre parcours, vos études, vos diplômes, vos expériences -->
 
