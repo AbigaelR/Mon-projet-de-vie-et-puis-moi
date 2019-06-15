@@ -58,5 +58,7 @@ drops ♥
 </a>
 <a href="https://www.instagram.com/a_bigael/?hl=fr">Instagram
 </a>
- </body>
+<a href="https://www.pinterest.fr/leiothix/">et Pinterest
+</a>
+</body>
 </html>
