@@ -41,19 +41,16 @@ le football anglais et en particulier Liverpool
 faire un peu de boxe, du fitness
 </li>
 
-<li>Depuis que j'ai commencé réellement à apprendre le code et que je vois tout ce que je peux faire avec, c'est un vrai centre d'intérêt.
-</li>
 
 </ul>
 
 
 <!-- vos sites préférés -->
-
-www.freecodecamp.org j'ai passé tellement de temps avec en tête à tête
-www.youtube.fr des vidéos avec une diversité de thème incroyable. 
-les sites de streaming
-drops ♥
-
+<ul>
+<li>www.youtube.fr des vidéos avec une diversité de thème incroyable.</li> 
+<li>les sites de streaming</li>
+<li>drops ♥</li>
+</ul>
 
 
 <!-- un lien vers vos profils de réseaux sociaux, voire y intégrer certains contenus de vos réseaux sociaux ! -->
