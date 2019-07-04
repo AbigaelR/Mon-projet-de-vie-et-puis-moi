@@ -14,8 +14,10 @@
 
 <!-- qui vous êtes, votre parcours, vos études, vos diplômes, vos expériences -->
 
-<p class="red-text">
- <img class="smaller-image" src="profil.jpg" alt="profil" />
+
+
+<img class="smaller-image" src="profil.jpg" alt="profil" />
+<p>
 Je m'appelle Abigaël, j'ai 22 ans et je suis actuellement salariée dans une entreprise en tant que Chargée de clientèle.</p>
 
 <p>Mon parcours a commencé par un bac Scientifique puis suite à son obtention j'ai continué par des études à l'université. 
