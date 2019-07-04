@@ -63,7 +63,7 @@ drops ♥
 <a href="https://www.instagram.com/a_bigael/?hl=fr">Instagram
 </a>
 <a href="https://www.pinterest.fr/leiothix/">et Pinterest
-</a>
+</a> 
 <p>
 <a href="mailto:abigaelrossignol@orange.fr">Et voici mon adresse mail si vous souhaitez me contacter.
 </a> </p>
