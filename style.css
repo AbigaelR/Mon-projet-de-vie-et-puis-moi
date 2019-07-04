@@ -1,12 +1,4 @@
-
- .red-text {
-    color: red;
-  }
-.smaller-image {
-    width: 10px;
-  }
-
-  p {
-    font-size: 16px;
-    font-family: monospace;
-  }
+p
+{
+    color: blue;
+}
