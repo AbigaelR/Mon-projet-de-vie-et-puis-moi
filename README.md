@@ -5,12 +5,7 @@
    <meta charset="utf-8" />
    <link rel="stylesheet" href="style.css">
    <tittle>Qui je suis et pourquoi je veux devenir développeuse web ☺</tittle>
-   <style>
-    
-  .smaller-image {
-    width: 100px;
-  }
-</style>
+
  </head>
  
  
