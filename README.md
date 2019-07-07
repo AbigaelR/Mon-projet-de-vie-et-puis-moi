@@ -1,8 +1,8 @@
  <!DOCTYPE html>
- <html lang="fr">
+ <html>
   <head> 
     <!-- metadata elements: link, meta, title, and style -->
-   <meta charset="utf-8" />
+   <meta charset="utf-8"/>
       <style>
             p
             {
@@ -27,9 +27,9 @@ Je m'appelle Abigaël, j'ai 22 ans et je suis actuellement salariée dans une en
 <p>Mon parcours a commencé par un bac Scientifique puis suite à son obtention j'ai continué par des études à l'université. 
 </p>
 <p>De ce cursus universitaire, j'en suis resortie avec une licence de biologie et une expérience à l'étranger.</p>
-<p>En effet lors ma dernière année j'ai eu l'occasion de faire un semestre en Norvège qui m'a permis de rencontrer des gens et toute une culture qui m'était inconnue.
+<p>En effet lors ma dernière année j'ai eu l'occasion de faire un semestre en Norvège qui m'a permis de rencontrer des gens et toute une culture qui m'était inconnue.</p>
  <img class="smaller-image" src="BODO (2).jpg" alt="BODO" />
-</p>
+
 <p>Après l'université j'ai enchainé les jobs alimentaires et je souhaite donc maintenant me former à un métier qui me plaît, avec des évolutions futures possibles et dont il y a des débouchés.
 </p>
 
