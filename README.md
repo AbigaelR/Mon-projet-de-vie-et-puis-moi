@@ -3,9 +3,13 @@
   <head> 
     <!-- metadata elements: link, meta, title, and style -->
    <meta charset="utf-8" />
-   <link rel="stylesheet" href="style.css"/>
+      <style>
+            p
+            {
+                color: blue;
+            }
+        </style>
    <tittle>Qui je suis et pourquoi je veux devenir développeuse web ☺</tittle>
-
  </head>
  
  
