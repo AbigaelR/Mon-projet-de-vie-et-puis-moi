@@ -2,7 +2,7 @@
  <html>
   <head> 
     <!-- metadata elements: link, meta, title, and style -->
-   <meta charset="utf-8" />
+   <meta charset="utf-8">
       <style>
             p
             {
