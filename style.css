@@ -1,3 +1,42 @@
-p {
-    color: #59473d;
+tittle {
+   color: pink;
+   font-size: 30px;
+   text-align: center;
+   padding: 300px;
+
 }
+
+body {
+    font-family: Lobster, sans-serif;
+    text-align: justify;
+  }
+
+p {
+    color: pink;
+   
+}
+
+ul {
+    color: pink;
+}
+
+a {
+    color: pink;
+}
+
+.smaller-image {
+    width: 200px;
+  }
+
+.normal-border {
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 10%;
+  }
+
+.black-background {
+  background-color: black;
+}
+  .silver-background {
+    background-color: silver;
+  }
