@@ -8,35 +8,59 @@ tittle {
 
 body {
     font-family: Lobster, sans-serif;
-    text-align: justify;
+    ;
   }
 
 p {
     color: pink;
-   
+    text-align: justify;
+    padding: 10px;
+
 }
 
 ul {
     color: pink;
+    text-align: justify;
 }
 
 a {
     color: pink;
+    text-align: justify;
 }
 
-.smaller-image {
-    width: 200px;
-  }
+.profil{
+	width: 200px;
+}
 
+.BODO {
+	width: 500px;
+}
+
+.float{
+	float: left;
+	margin-left: 30px
+}
+
+.clear{
+	clear:both; 
+}
+
+.playlist{
+	position: fixed;
+	right: 30px;
+	top: 400px;
+}
 .normal-border {
     border-width: 5px;
+    border-color: black;
     border-style: solid;
     border-radius: 10%;
-  }
+}
 
 .black-background {
   background-color: black;
 }
-  .silver-background {
-    background-color: silver;
-  }
+
+.silver-background {
+    background-color: grey;
+}
