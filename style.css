@@ -1,0 +1,87 @@
+h1 {
+   color: pink;
+   text-align: center;
+}
+
+body {
+    font-family: 'Lexend Deca', sans-serif;
+    ;
+    
+  }
+
+p {
+	font-size: 15px;
+    color: pink;
+    text-align: justify;
+
+
+}
+
+ul {
+    color: pink;
+    text-align: justify;
+}
+
+a {
+    color: pink
+    text-align: justify;
+}
+
+
+.profil{
+	width: 150px;
+	float: right;
+	margin-left: 30px;	
+}
+
+.BODO {
+	width: 500px;
+}
+
+.legende{
+	text-decoration: underline;
+	font-size: 10px;
+	padding-left: 25px;
+}
+
+.playlist{
+	position: fixed;
+	right: 30px;
+	top: 400px;
+} 
+ 
+.cadre {
+    border: 1px;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding:4px;
+  }
+
+.contenu {
+    padding:10px;
+  }
+
+.normal-border {
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10%;
+  }
+
+.black-background {
+  background-color: black;
+}
+
+.silver-background {
+    background-color: grey;
+  }
+
+.LFC{
+	vertical-align: middle;
+	left: 600px;
+	bottom: 10px;
+}
+
+.youtube{
+	float: right;
+}
