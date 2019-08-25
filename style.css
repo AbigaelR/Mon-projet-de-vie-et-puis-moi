@@ -1,20 +1,19 @@
-tittle {
+h1 {
    color: pink;
-   font-size: 30px;
    text-align: center;
-   padding: 300px;
-
 }
 
 body {
-    font-family: Lobster, sans-serif;
+    font-family: 'Lexend Deca', sans-serif;
     ;
+    
   }
 
 p {
+	font-size: 15px;
     color: pink;
     text-align: justify;
-    padding: 10px;
+
 
 }
 
@@ -24,38 +23,50 @@ ul {
 }
 
 a {
-    color: pink;
+    color: pink
     text-align: justify;
 }
 
+
 .profil{
-	width: 200px;
+	width: 150px;
+	float: right;
+	margin-left: 30px;	
 }
 
 .BODO {
 	width: 500px;
 }
 
-.float{
-	float: left;
-	margin-left: 30px
-}
-
-.clear{
-	clear:both; 
+.legende{
+	text-decoration: underline;
+	font-size: 10px;
+	padding-left: 25px;
 }
 
 .playlist{
 	position: fixed;
 	right: 30px;
 	top: 400px;
-}
+} 
+ 
+.cadre {
+    border: 1px;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding:4px;
+  }
+
+.contenu {
+    padding:10px;
+  }
+
 .normal-border {
     border-width: 5px;
     border-color: black;
     border-style: solid;
     border-radius: 10%;
-}
+  }
 
 .black-background {
   background-color: black;
@@ -63,4 +74,14 @@ a {
 
 .silver-background {
     background-color: grey;
+  }
+
+.LFC{
+	vertical-align: middle;
+	left: 600px;
+	bottom: 10px;
+}
+
+.youtube{
+	float: right;
 }
